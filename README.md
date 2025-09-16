@@ -9,7 +9,7 @@ Saya memiliki ketertarikan di bidang:
 
 ---
 
-## 🖋️ Tentang Saya
+## 🖋️ Tentang Gweh
 - 🚀 Sedang mendalami pemrograman dan keamanan.  
 - 💡 Bersemangat dalam mengeksplorasi teknologi baru dan problem solving.  
 - 🤝 Terbuka untuk kolaborasi, diskusi, dan berbagi ilmu.  
