@@ -10,17 +10,18 @@ Saya memiliki ketertarikan di bidang:
 ---
 
 ## 🖋️ Tentang Saya
-- 🚀 Sedang mendalami pemrograman dan pengembangan aplikasi.  
+- 🚀 Sedang mendalami pemrograman dan keamanan.  
 - 💡 Bersemangat dalam mengeksplorasi teknologi baru dan problem solving.  
 - 🤝 Terbuka untuk kolaborasi, diskusi, dan berbagi ilmu.  
 
 ---
 
-## 🎨 CRUX
+```
 / | _ | | | || |
 | | | |) | | | || |
 | || _ <| ||__ |
 _|| __| |_|
+```
 
 ---
 
