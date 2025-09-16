@@ -1,8 +1,37 @@
-- 👋 Hi, I’m @AmmarNabilF
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning basic until intermediate level of python
+# 👋 Halo, Saya Ammar Nabil Fauzan  
 
-<!---
-AmmarNabilF/AmmarNabilF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Saya seorang **Mahasiswa Universitas Mulawarman** (Program Studi Informatika, angkatan 2023).  
+Saya memiliki ketertarikan di bidang:  
+
+- 🔐 **Cyber Security**  
+- 🌐 **Internet of Things (IoT)**  
+- 🎨 **UI Design**  
+
+---
+
+## 🖋️ Tentang Saya
+- 🚀 Sedang mendalami pemrograman dan pengembangan aplikasi.  
+- 💡 Bersemangat dalam mengeksplorasi teknologi baru dan problem solving.  
+- 🤝 Terbuka untuk kolaborasi, diskusi, dan berbagi ilmu.  
+
+---
+
+## 🎨 CRUX
+/ | _ | | | || |
+| | | |) | | | || |
+| || _ <| ||__ |
+_|| __| |_|
+
+---
+
+## 📫 Hubungi Saya
+- ✉️ Email: [ammarnabil31@gmail.com](mailto:ammarnabil31@gmail.com)  
+- 💼 LinkedIn: [https://linkedin.com/in/ammar](https://www.linkedin.com/in/ammar-nabil-fauzan-381651289/))  
+- 🐙 GitHub: [github.com/ammar](https://github.com/ammar)  
+
+---
+
+## 📝 Kutipan Favorit
+> “Setelah kau menghilangkan yang tidak mungkin, apapun yang tersisa, tidak peduli betapa mustahilnya, pasti merupakan kebenaran.”  
+> — **Sherlock Holmes**
+
